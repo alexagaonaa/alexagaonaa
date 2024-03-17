@@ -10,8 +10,7 @@ Hello! I'm Alexa G, a passionate actuarial student with a keen interest in data 
 - 📚 Always seeking to learn about new topics
 
 ### Contact
-ig: @alee_gaona
 Feel free to reach out for collaborations, interesting projects, or just to chat about our shared passions! ✉️🌟
 
 Thank you for visiting my profile! 💕✨
--->
+--> ig: @aleegaona
