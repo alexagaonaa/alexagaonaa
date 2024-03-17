@@ -1,16 +1,17 @@
-### Hi there 👋
+## Welcome to my GitHub Profile 💖
 
-<!--
-**alexagaonaa/alexagaonaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I'm Alexa G, a passionate actuarial student with a keen interest in data science, fashion, and psychology. I'm always excited to learn about new topics and expand my horizons. Welcome to my girlie world full of knowledge and style! 💁‍♀️✨
 
-Here are some ideas to get you started:
+### About Me
+- 👩‍💼 Actuarial Student
+- 📊 Data Science Enthusiast
+- 👗 Fashion Lover
+- 🧠 Interested in Psychology
+- 📚 Always seeking to learn about new topics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Contact
+ig: @alee_gaona
+Feel free to reach out for collaborations, interesting projects, or just to chat about our shared passions! ✉️🌟
+
+Thank you for visiting my profile! 💕✨
 -->
